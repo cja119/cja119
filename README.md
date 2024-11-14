@@ -17,3 +17,9 @@ Hello! I'm Cameron and I am a PhD student in Operations Research at Imperial Col
 - EPSRC iCASE Studentship
 - Bansal Bursary (Awarded for being the highest ranking graduate in the 2023 PhD cohort).
 - 3x Undergraduate Dean's List Award (Awarded for grades in the top 10% of the Undergraduate cohort)
+
+🖥️__Languages__
+- Python
+- BASH
+- Rust 
+- C++ 

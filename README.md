@@ -4,6 +4,7 @@ Hello! I'm Cameron and I am a PhD student in Operations Research at Imperial Col
 
 👨🏼‍🔬 __Research Interersts__
 - Stochastic Systems Modelling and Optimisation
+- Machine Learning
 - Commodity Economics (Hydrogen)
 
 📚 __Education__

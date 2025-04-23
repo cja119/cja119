@@ -1,11 +1,10 @@
 # Cameron Aldren | PhD Student @ Imperial
 
-Hello! I'm Cameron and I am a PhD student in Operations Research at Imperial College London's Sargent Centre for Process System Engineering. My primary research interest is in modelling stochastic systems, with my doctoral thesis looking to understand hydrogen's role in the decarbonisation of intercontinental energy trade. I am supervised by Professors Nilay Shah, Adam Hawkes and Dr Chris Tighe.
-
+Hello! I'm Cameron and I am a PhD student at Imperial. My primary research interest is in modelling hydrogen trade systems.
 👨🏼‍🔬 __Research Interersts__
 - Stochastic Systems Modelling and Optimisation
 - Machine Learning
-- Commodity Economics (Hydrogen)
+- Commodity Economics 
 
 📚 __Education__
 - MEng in Chemical Engineering at Imperial College London (Grad 2023)

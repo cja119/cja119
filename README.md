@@ -1,4 +1,4 @@
-# Cameron Aldren 
+<img src="image.jpeg" alt="Icon" width="20" style="vertical-align: middle;"/>  **Cameron Aldren**
 
 Hello! I'm Cameron and I am a PhD student at Imperial; my primary research focus is modelling hydrogen trade systems.
 

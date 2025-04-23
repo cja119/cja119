@@ -1,6 +1,6 @@
 # Cameron Aldren | PhD Student @ Imperial
 
-Hello! I'm Cameron and I am a PhD student at Imperial. My primary research interest is in modelling hydrogen trade systems.
+Hello! I'm Cameron and I am a PhD student at Imperial; my primary research focus is modelling hydrogen trade systems.
 
 👨🏼‍🔬 __Research Interersts__
 - Stochastic Systems Modelling and Optimisation

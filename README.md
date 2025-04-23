@@ -1,4 +1,4 @@
-# Cameron Aldren | PhD Student @ Imperial
+# Cameron Aldren 
 
 Hello! I'm Cameron and I am a PhD student at Imperial; my primary research focus is modelling hydrogen trade systems.
 

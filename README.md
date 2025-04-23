@@ -8,8 +8,8 @@ Hello! I'm Cameron and I am a PhD student at Imperial; my primary research focus
 - Commodity Economics 
 
 📚 __Education__
-- MEng in Chemical Engineering at Imperial College London (Grad 2023)
-- PhD in Process Systems Engineering at Imperial College London (Grad *exp.* 2027 )
+- Master of Engineering - Imperial (Grad 2023)
+- Doctor of Philosophy - Imperial (Grad *exp.* 2027 )
 
 🏆 __Awards and Studentships__
 - EPSRC iCASE Studentship

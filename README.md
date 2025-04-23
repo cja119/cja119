@@ -2,7 +2,7 @@
 
 Hello! I'm Cameron and I am a PhD student at Imperial; my primary research focus is modelling hydrogen trade systems.
 
-👨🏼‍🔬 __Research Interersts__
+🖥️ __Research Interersts__
 - Stochastic Systems Modelling and Optimisation
 - Machine Learning
 - Commodity Economics 
